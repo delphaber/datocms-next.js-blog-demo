@@ -20,7 +20,7 @@ Have a look at the end result live:
 
 3. Let DatoCMS set everything up for you clicking this button:
 
-[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/nextjs-demo)
+[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard-staging.datocms.com/deploy?repo=delphaber/nextjs-demo-test:master)
 
 ### Local setup
 
